@@ -1,10 +1,9 @@
 
-public class Oblig13Runner {
+public class Oblig9Runner {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
-		Oblig13GUI O = new Oblig13GUI();
+		Oblig9 o = new Oblig9(); 
 	}
 
 }

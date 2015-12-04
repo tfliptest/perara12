@@ -1,10 +1,9 @@
 
-public class Oblig9Runner {
+public class Oblig8Runner {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
-		Oblig9SnakeGame O = new Oblig9SnakeGame();
+		Oblig8 g = new Oblig8(); 
 	}
 
 }
