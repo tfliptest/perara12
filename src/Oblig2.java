@@ -11,20 +11,20 @@ public class Oblig2 {
 				JOptionPane.showMessageDialog(null, passord);
 			
 		//Oppgave 2
-			String antall_uker = JOptionPane.showInputDialog(null,"Skriv antall uker boken er utlånt");
+			String antall_uker = JOptionPane.showInputDialog(null,"Skriv antall uker boken er utlÃ¥nt");
 			int uker = Integer.parseInt(antall_uker);
 			if(uker>4){
 				JOptionPane.showMessageDialog(null,"Lever boken tilbake");
 			}
 			else if(uker==4){
-				JOptionPane.showMessageDialog(null, "Du må levere boken tilbake idag");
+				JOptionPane.showMessageDialog(null, "Du mÃ¥ levere boken tilbake idag");
 			}
 			else {
-				JOptionPane.showMessageDialog(null, "Du kan låne boken lenger");
+				JOptionPane.showMessageDialog(null, "Du kan lÃ¥ne boken lenger");
 			}
 			
 		//Oppgave 3
-			String antall_timer = JOptionPane.showInputDialog(null,"Hvor lenge bruker du på sosiale medier hver dag?");
+			String antall_timer = JOptionPane.showInputDialog(null,"Hvor lenge bruker du pÃ¥ sosiale medier hver dag?");
 			int timer = Integer.parseInt(antall_timer);
 			if(timer>2){
 				JOptionPane.showMessageDialog(null,"For mye");
@@ -46,16 +46,7 @@ public class Oblig2 {
 			}
 				
 			
-			
-		//Oppgave 5
-			String passord2 = JOptionPane.showInputDialog(null,"Skriv passord");
-			while (!passord2.equals("hei"))	{
-				JOptionPane.showMessageDialog(null, "Access Denied");
-				passord2 =	JOptionPane.showInputDialog(null, "Prøv igjen");
-				
-			}
-				JOptionPane.showMessageDialog(null, "Access Granted");
-			}
+	
 				
 	}
 
