@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class ObligOne {
+public class Oblig1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
