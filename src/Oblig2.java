@@ -44,7 +44,17 @@ public class Oblig2 {
 			else	{
 				JOptionPane.showMessageDialog(null, "Access Denied");
 			}
+			
+			
+			
+			String passord2 = JOptionPane.showInputDialog(null,"Skriv passord");
+			while (!passord2.equals("hei"))	{
+				JOptionPane.showMessageDialog(null, "Access Denied");
+				passord2 =	JOptionPane.showInputDialog(null, "Prøv igjen");
 				
+			}
+				JOptionPane.showMessageDialog(null, "Access Granted");
+			}	
 			
 
 			}
