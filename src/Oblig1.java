@@ -7,25 +7,25 @@ public class ObligOne {
 		
 		//Oppgave 1
 				//telefon.start();
-				//telefon.åpneInstagram();
-				//telefon.åpne_kamera();
+				//telefon.Ã¥pneInstagram();
+				//telefon.Ã¥pne_kamera();
 				//telefon.ta(bilde);
 				//telefon.legg_til(filter);
-				//bjørnar.skriv_kommentar(#DAT101#UiA);
+				//bjÃ¸rnar.skriv_kommentar(#DAT101#UiA);
 				//telefon.legg_ut(bilde);
-				//bjørnar.appreciate(likes);
+				//bjÃ¸rnar.appreciate(likes);
 
 	//Oppgave 2:
 			System.out.println("Dette er mitt");
 			
 	//Oppgave 3:
-			System.out.println("første program");
+			System.out.println("fÃ¸rste program");
 			
 	//Oppgave 4:
-			JOptionPane.showMessageDialog(null,"Dette er mitt første program");
+			JOptionPane.showMessageDialog(null,"Dette er mitt fÃ¸rste program");
 			
 	//Oppgave 5:
-			JOptionPane.showInputDialog("Hva heter du?","Bjørnar");
+			JOptionPane.showInputDialog("Hva heter du?","BjÃ¸rnar");
 			
 	//Oppgave 6:
 			System.out.println("Dette skal komme til skjermen");
