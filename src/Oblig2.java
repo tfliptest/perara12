@@ -57,7 +57,6 @@ public class Oblig2 {
 			}	
 			
 
-			}
 				
 	}
 
