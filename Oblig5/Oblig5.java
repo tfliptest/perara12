@@ -6,7 +6,7 @@ public class Oblig5 {
 		Game g = new Game();
 		Character bg = new Character();
 		bg.setImage("http://mortengoodwin.net/mario/background.jpg");
-		console.log("Backgggg.");
+		System.out.println("Backgggg.");
 		g.addCharacter(bg, "background");
 		
 		
