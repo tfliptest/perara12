@@ -1,4 +1,4 @@
-import javax.swing.JFrame;
+import javax.swing.*;
 import java.awt.FlowLayout;
 
 public class Oblig6 extends JFrame
