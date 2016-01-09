@@ -13,6 +13,8 @@ public class Oblig5 {
 		mario.setImage("http://mortengoodwin.net/mario/mario.jpg");
 		g.addCharacter(mario, "hero");
 		
+		mario.y = 500;
+		mario.resize(0.5);
 		
 		Character prinsesse = new Character();
 		prinsesse.setImage("http://mortengoodwin.net/mario/princess.jpg");
