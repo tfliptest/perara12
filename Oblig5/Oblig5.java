@@ -5,7 +5,7 @@ public class Oblig5 {
 		// TODO Auto-generated method stub
 		Game g = new Game();
 		Character bg = new Character();
-		bg.setImage("http://www.keenthemes.com/preview/conquer/assets/plugins/jcrop/demos/demo_files/image1.jpg");
+		bg.setImage("http://mortengoodwin.net/mario/background.jpg");
 		g.addCharacter(bg, "background");
 		
 		
